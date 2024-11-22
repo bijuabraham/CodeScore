@@ -1,5 +1,5 @@
 # Idea Owner
-Ovi Dan @ Visa Inc.
+[zmarty](https://github.com/zmarty)
 
 # CodeScore
 
