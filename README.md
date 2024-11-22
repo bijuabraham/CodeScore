@@ -1,3 +1,6 @@
+# Idea Owner
+Ovi Dan @ Visa Inc.
+
 # CodeScore
 
 CodeScore is a Python tool that analyzes GitHub commit diffs using Claude AI to provide detailed code quality metrics and insights. It examines various aspects of code changes including complexity, quality, type of changes, and potential technical debt.
