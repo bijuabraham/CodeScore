@@ -1,0 +1,7 @@
+[Github]
+Token = [Github API Key]]
+
+[API]
+SonnetAPIUrl = https://api.anthropic.com/v1/complete
+SonnetAPIKey = [Sonnet API Key]]
+DiffUrl = https://api.github.com/repos/{repo_name}/compare/{previous_commit}...{latest_commit}
